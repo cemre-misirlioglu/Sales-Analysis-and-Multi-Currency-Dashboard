@@ -1,2 +1,3 @@
 Conducted a sales analysis and created an interactive dashboard in Power BI. Calculated and visualized monthly revenue and average product cost by category, and built a sales volume time series with year and month filters. Presented units sold by product category, including breakdowns by month and location, and visualized sales distribution by payment method. Connected the dashboard to the National Bank of Ukraine API to retrieve the latest USD exchange rate, then created a currency filter with TRY and USD options and a measure that changes based on the selected currency.
 Tools: Power BI, National Bank of Ukraine API
+![Dashboard preview](Sales_Analysis_and_Multi-Currency_Dashboard.png)
